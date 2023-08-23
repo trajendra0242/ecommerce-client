@@ -1,4 +1,4 @@
-# Shop With Zosh
+# Shop With Rajendra
 
 ### website
 https://shopwithzosh.vercel.app/
